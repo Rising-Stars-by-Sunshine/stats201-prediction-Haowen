@@ -52,7 +52,7 @@
 | Analyze_Data_Machine_Learning_for_Predicting.ipynb | ethereum blockchain data for  MOONBIRDS token | .ipynb |
 
 ### Spotlight
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/spotlight/figures/Linear_Regression_Result.jpg)
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/spotlight/figures/Linear_Regression_Result.png)
 
 ## References
 
