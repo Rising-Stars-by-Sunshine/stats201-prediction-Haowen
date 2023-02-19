@@ -53,6 +53,7 @@
 
 ### Spotlight
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/spotlight/figures/Linear_Regression_Result.png)
+Figure 1: The prediction result of ethereum value by linear regression
 
 ## References
 
