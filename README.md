@@ -10,42 +10,7 @@
 
 
 ## Project 1: Explanation
-### Table of Contents
-- Data
-- Code
-- Spotlight
 
-### Data
-- Data Source:
-- Queried Data
-- Processed Data
-
-### Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
-
-### Spotlight
-- Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
-
-## References
-
-### Data Source
-- Data Source Title and URL
-### Code Source
-- Code Source Title and URL
-### Articles
-- Article Source Title and URL
-### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
 ## Project 2: Explanation
 ### Table of Contents
