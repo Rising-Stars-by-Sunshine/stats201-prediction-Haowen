@@ -14,6 +14,16 @@
 
 ## Project 2: Explanation
 ### Table of Contents
+
+#### Table of Code
+
+
+
+### Data
+- Data Source: 
+- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Queried_Data)
+- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
+
 #### Meta Data Information
 | Data files| Data Content | Logo | Type|
 | :---         |     :---:      |          ---: | ---: |
@@ -26,14 +36,6 @@
 | :---         |     :---     |          ---: |---:        |---: |---: |
 | number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
 
-#### Table of Code
-
-#### Table of Spotlight
-
-### Data
-- Data Source: 
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Queried_Data)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
 
 ### Code
 - [Query Ethereum Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Query_Data_Ethereum_Data.ipynb)
