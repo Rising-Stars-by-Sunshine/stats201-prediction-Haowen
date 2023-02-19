@@ -26,7 +26,7 @@
 
 #### Meta Data Information
 | Data files| Data Content | Type|
-| :---         |     :---:     | ---: |
+| :---         |     :---     | :---: |
 | ETHUSD.csv | Ethereum historical data from 2015 to 2021 | queried data |
 | Ethereum_value.csv | Ethereum data after preprocessing | queried data |
 | Regression_Train.csv | Data for model training | processed data |
