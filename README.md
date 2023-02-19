@@ -38,6 +38,11 @@
 | variable name | description | frequency     |  unit.    | range| type|
 | :---         |     :---     |          ---: |---:        |---: |---: |
 | number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
+| number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
+| number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
+| number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
+| number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
+| number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
 
 
 ### Code
@@ -47,9 +52,9 @@
 #### Table of Code
 | Code files| Description | Type|
 | :---         |     :---:     | ---: |
-| Query_Data_Ethereum_Data.ipynb  | This code deals with   | .ipynb |
-| Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | ethereum blockchain data for  MOONBIRDS token | .ipynb |
-| Analyze_Data_Machine_Learning_for_Predicting.ipynb | ethereum blockchain data for  MOONBIRDS token | .ipynb |
+| Query_Data_Ethereum_Data.ipynb  | This code deals with the read and preprocessing of the original dataset | .ipynb |
+| Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | This code processed the X and Y dataset from Ethereum_value.csv for regression  | .ipynb |
+| Analyze_Data_Machine_Learning_for_Predicting.ipynb | This code applied machine learning method for open price regression| .ipynb |
 
 ### Spotlight
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/spotlight/figures/Linear_Regression_Result.png)
