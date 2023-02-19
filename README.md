@@ -27,8 +27,11 @@
 #### Meta Data Information
 | Data files| Data Content | Type|
 | :---         |     :---:     | ---: |
-| blocks_QuickNode.csv  | ethereum blockchain data for blocks  | queried data |
-| token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token | queried data |
+| ETHUSD.csv | Ethereum historical data from 2015 to 2021 | queried data |
+| Ethereum_value.csv | Ethereum data after preprocessing | queried data |
+| Regression_Train.csv | Data for model training | processed data |
+| Regression_Test.csv | Data for model test | processed data |
+
 #### Data Dictionary 
 | variable name | description | frequency     |  unit.    | range| type|
 | :---         |     :---     |          ---: |---:        |---: |---: |
