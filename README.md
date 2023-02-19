@@ -15,7 +15,7 @@
 ## Project 2: Explanation
 ### Table of Contents
 - Data
-- ### Meta Data Information
+--### Meta Data Information
 | Data files| Data Content | Logo | Type|
 | :---         |     :---:      |          ---: | ---: |
 | blocks_QuickNode.csv  | ethereum blockchain data for blocks   | :clown_face:  | queried data |
