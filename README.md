@@ -12,7 +12,7 @@
 ## Project 1: Explanation
 [Stats201-Explanation-Haowen]()
 
-## Project 2: Explanation
+## Project 2: Prediction
 ### Table of Contents
 
 | Contents| URL |
@@ -21,10 +21,8 @@
 | Code | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/code |
 | Spotlight | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/spotlight |
 
-
-
 ### Data
-- Data Source: 
+#### Data Source: 
 - [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Queried_Data)
 - [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
 
