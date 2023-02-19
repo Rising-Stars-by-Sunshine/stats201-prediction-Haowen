@@ -14,21 +14,21 @@
 
 ## Project 2: Explanation
 ### Table of Contents
-- Data
---### Meta Data Information
+#### Meta Data Information
 | Data files| Data Content | Logo | Type|
 | :---         |     :---:      |          ---: | ---: |
 | blocks_QuickNode.csv  | ethereum blockchain data for blocks   | :clown_face:  | queried data |
 | token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token     | :japanese_goblin:    | queried data |
-### Data Dictionary 
+#### Data Dictionary 
 #### The Data Dictionary for the Block Level Data
 
 | variable name | description | frequency     |  unit.    | range| type|
 | :---         |     :---     |          ---: |---:        |---: |---: |
 | number | A block number in blockchain technology refers to the number assigned to a specific block in the blockchain. Each block in a blockchain contains a set of transactions, and the block number is used to uniquely identify it within the chain. The block number increases with each new block added to the blockchain, and the most recently added block has the highest block number | block |/|from XXX to YYY|Numeric Types: int|
 
-- Code
-- Spotlight
+#### Table of Code
+
+#### Table of Spotlight
 
 ### Data
 - Data Source: 
