@@ -10,7 +10,7 @@
 
 
 ## Project 1: Explanation
-[Stats201-Explanation-Haowen]()
+[Stats201-Explanation-Haowen](https://github.com/Rising-Stars-by-Sunshine/stats201-explanation-Haowen)
 
 ## Project 2: Prediction
 ### Table of Contents
@@ -56,7 +56,10 @@
 
 ### Spotlight
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/spotlight/figures/Linear_Regression_Result.png)
-Figure 1: The prediction result of ethereum value by linear regression
+*Figure 1: The prediction result of ethereum value by linear regression*
+-[Code source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
+-[Data source](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/tree/main/data/Processed_data)
+-
 
 ## References
 
