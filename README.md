@@ -47,8 +47,9 @@
 #### Table of Code
 | Code files| Description | Type|
 | :---         |     :---:     | ---: |
-| blocks_QuickNode.csv  | ethereum blockchain data for blocks  | .ipynb |
-| token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token | .ipynb |
+| Query_Data_Ethereum_Data.ipynb  | This code deals with   | .ipynb |
+| Process_Data_Prepare_X_and_Y_for_Regressions.ipynb | ethereum blockchain data for  MOONBIRDS token | .ipynb |
+| Analyze_Data_Machine_Learning_for_Predicting.ipynb | ethereum blockchain data for  MOONBIRDS token | .ipynb |
 
 ### Spotlight
 - Figures
