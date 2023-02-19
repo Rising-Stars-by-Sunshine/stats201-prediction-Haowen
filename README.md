@@ -15,7 +15,7 @@
 ## Project 2: Explanation
 ### Table of Contents
 
-#### Table of Code
+
 
 
 
@@ -39,6 +39,11 @@
 - [Query Ethereum Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Query_Data_Ethereum_Data.ipynb)
 - [Process Regression Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Process_Data_Prepare_X_and_Y_for_Regressions.ipynb)
 - [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-Haowen/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting.ipynb)
+#### Table of Code
+| Code files| Description | Type|
+| :---         |     :---:     | ---: |
+| blocks_QuickNode.csv  | ethereum blockchain data for blocks  | .ipynb |
+| token_transfers.csv   | ethereum blockchain data for  MOONBIRDS token | .ipynb |
 
 ### Spotlight
 - Figures
